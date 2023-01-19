@@ -1,4 +1,4 @@
-# 2023LangCon
+# 2023Langcon
 nlp conference
 
 
@@ -10,4 +10,4 @@ nlp conference
          생성 모델링  및 서비스의 이해        
 
 
-참고 :  https://songys.github.io/2023LangCon/     
+참고 :  https://songys.github.io/2023Langcon/    

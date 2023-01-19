@@ -13,10 +13,11 @@ layout: home
 [서울특별시 종로구 중학동 19 더케이트윈타워 A동](http://naver.me/IMlGLw7y) 마이크로소프트 광화문 사옥 13층, Conference 룸                                      
 ![지도](./pic/msmap.png)
 
-# 지난 대회 보기             
-[Langcon2021](https://songys.github.io/2021Langcon/)
+# 지난 대회 보기              
+[Langcon2021](https://songys.github.io/2021Langcon/)      
  >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oTd4YenELiGHcKSBdgVaC0L)     
-[Langcon2020](https://songys.github.io/2020LangconOnOff/)     
+
+[Langcon2020](https://songys.github.io/2020LangconOnOff/)         
  >[발표 동영상](ttps://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)  
 
 [Langcon2019](https://songys.github.io/2019LangCon/)      

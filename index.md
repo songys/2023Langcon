@@ -15,12 +15,12 @@ layout: home
                  생성 모델링  및 서비스의 이해         
 
           
- <img src="./pic/main.png" width="800"><BR> 
- <img src="./pic/time_table.png" width="800"><BR>                       
+ <img src="./pic/main.jpg" width="1000"><BR> 
+ <img src="./pic/time_table.png" width="1000"><BR>                       
 
 # 찾아 오시는 길           
 [서울특별시 종로구 중학동 19 더케이트윈타워 A동](http://naver.me/IMlGLw7y) 마이크로소프트 광화문 사옥 13층, Conference 룸                                      
- <img src="./pic/msmap.png" width="800"><BR>  
+ <img src="./pic/msmap.png" width="600"><BR>  
 
 # 지난 대회 보기              
 [Langcon2021](https://songys.github.io/2021Langcon/)      

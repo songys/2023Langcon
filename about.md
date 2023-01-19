@@ -12,12 +12,12 @@ permalink: /about/
 
 |번호|발표 유형|이름|소속|제목|발표 소개|
 |:---:|:-----------------:|:-----------:|:--------:|:--------:|:--------:|
-|1|스피커|이종원![사진](pic/jongw.jpg)|삼성전자|AI 모델과 재미있는 이야기하기|-|    
+|1|스피커|이종원![사진](pic/jongw.png)|삼성전자|AI 모델과 재미있는 이야기하기|-|    
 |2|스피커|박장원![사진](pic/pjw.jpg)|BHSN|특정 도메인에 맞는 언어모델은 어떻게 만들까?|-|     
 |3|스피커|고석현![사진](pic/noha.png)|토스|Shallow한 자연어 검색 만들기|-|     
 |4|스피커|고현웅![사진](pic/gohw.png)|튜닙|EleutherAI에서의 1년|-|       
 |5|스피커|이주홍![사진](pic/ljhong.png)|스캐터랩|인공지능과 친구가 될 수 있을까요?|-|   
-|6|스피커|신정규![사진](spic/sinjk.jpg)|Lablup|Building large language models at scale|-|            
+|6|스피커|신정규![사진](pic/sinjk.jpg)|Lablup|Building large language models at scale|-|            
 
 
     

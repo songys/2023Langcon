@@ -7,6 +7,15 @@ layout: home
 
                             
                            
+ 2023Langcon  초거대 AI 모델과 재미있는 이야기하기 : Bigger, Better, Stronger.
+
+시간 : 2023년 2월 18일(토)
+참여 방식 : 오프라인
+행사 목적 : 최근 거대 모델을 대상으로 한 자연어처리 동향 이해
+                 생성 모델링  및 서비스의 이해
+
+
+
  <img src="./pic/time.png" width="800"><BR>                       
 
 # 찾아 오시는 길           

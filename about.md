@@ -20,7 +20,7 @@ permalink: /about/
 |6|스피커|신정규![사진](./pic/sinjk.jpg)|Lablup|Building large language models at scale|            
 
 
-
+    
 # 행사 진행
 
 

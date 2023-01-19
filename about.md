@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![사진](./pic/b.png)
+![사진](./pic/a.png)
 
 
     

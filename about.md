@@ -25,8 +25,10 @@ permalink: /about/
 
 
 
-|:--------:|:-----------------:|:-----------:|:--------:|:--------:|
-|송영숙![1](pic/song.png)|송치성![2](pic/chisung.jpg)|조원익![3](pic/jwani.png)|박신홍![4](pic/sinhongpark.jpg)|송진영![5](pic/jiny.png)     
+|:--------:|:-----------------:|:-----------:|:--------:|
+|송영숙![1](pic/song.png)|송치성![2](pic/chisung.jpg)|조원익![3](pic/jwani.png)|박신홍![4](pic/sinhongpark.jpg)|     
+송진영![5](pic/jiny.png)|박해선![6]](pic/hspark.png)|김택현![7](pic/thk.jpg))       
+
 
 
 

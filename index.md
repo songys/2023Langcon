@@ -27,9 +27,10 @@ layout: home
  >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oTd4YenELiGHcKSBdgVaC0L)     
 
 [Langcon2020](https://songys.github.io/2020LangconOnOff/)         
- >[발표 동영상](ttps://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)  
+ >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)  
 
 [Langcon2019](https://songys.github.io/2019LangCon/)      
+ >[발표 동영상(khaiii(카카오 형태소 분석기)](https://youtu.be/NV5rjDRCebk)
          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)  
 

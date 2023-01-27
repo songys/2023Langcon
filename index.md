@@ -47,13 +47,17 @@ layout: home
 
 
 # 후원                       
-<img src="./pic/Microsoft.png" width="600"><BR>
+<img src="./pic/Microsoft.png" width="800"><BR>
 
 <img src="./pic/moneyrobo.png" width="500"><BR>
            
-<img src="./pic/gil.png" width="500"><BR>
 
+<img src="./pic/gil.png" width="500"><BR>        
+         
+<img src="./pic/hanbit.png" width="500"><BR>      
+         
 
+<img src="./pic/jpub.jpg" width="500"><BR>          
 
 
 

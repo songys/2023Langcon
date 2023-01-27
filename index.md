@@ -18,6 +18,9 @@ layout: home
  <img src="./pic/poster.png" width="1000"><BR> 
  <img src="./pic/time_table.png" width="1000"><BR>                       
 
+
+각 발표는 개인 발표이고 회사의 방향성을 대표하는 것이 아님을 알려드립니다.
+
 # 찾아 오시는 길           
 [서울특별시 종로구 중학동 19 더케이트윈타워 A동](http://naver.me/IMlGLw7y) 마이크로소프트 광화문 사옥 13층, Conference 룸                                      
  <img src="./pic/msmap.png" width="1000"><BR>  
@@ -45,5 +48,15 @@ layout: home
 
 # 후원                       
 <img src="./pic/Microsoft.png" width="600"><BR>
+<img src="./pic/moneyrobo.png width="600"><BR>
+<img src="./pic/gil.png width="600"><BR>
+
+
+
+
+
+
+
+
 
 

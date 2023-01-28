@@ -15,8 +15,8 @@ layout: home
                  생성 모델링  및 서비스의 이해         
 
           
- <img src="./pic/poster.png" width="1000"><BR> 
- <img src="./pic/time_table.png" width="1000"><BR>                       
+ <img src="./pic/2023poster.png" width="1000"><BR> 
+ <img src="./pic/timetable.png" width="1000"><BR>                       
 
 
 각 발표는 개인 발표이고 회사의 방향성을 대표하는 것이 아님을 알려드립니다.
@@ -47,17 +47,18 @@ layout: home
 
 
 # 후원                       
-<img src="./pic/Microsoft.png" width="800"><BR>
+<img src="./pic/Microsoft.png" width="900"><BR>
 
 <img src="./pic/moneyrobo.png" width="500"><BR>
-           
+ 
 
-<img src="./pic/gil.png" width="500"><BR>        
-         
-<img src="./pic/hanbit.png" width="500"><BR>      
-         
 
-<img src="./pic/jpub.jpg" width="500"><BR>          
+<img src="./pic/gilbut.png" width="500"><BR>        
+         
+<img src="./pic/jpub.jpg" width="500"><BR>           
+         
+  
+<img src="./pic/hanbit.png" width="500"><BR>        
 
 
 

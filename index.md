@@ -55,7 +55,7 @@ layout: home
 
 <img src="./pic/gilbut.png" width="600"><BR>        
          
-<img src="./pic/jpub.jpg" width="400"><BR>           
+<img src="./pic/jpub.jpg" width="350"><BR>           
          
   
 <img src="./pic/hanbit.png" width="500"><BR>        

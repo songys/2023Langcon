@@ -53,7 +53,11 @@ layout: home
  
 
 
-<img src="./pic/gilbut.png" width="600"><BR>        
+<img src="./pic/gilbut.png" width="600"><BR>     
+
+## 발간 예정 도서 안내
+<img src="./pic/text.png" width="400"><BR>
+
          
 <img src="./pic/jpub.jpg" width="350"><BR>           
          

@@ -15,7 +15,7 @@ layout: home
                  생성 모델링  및 서비스의 이해         
 
           
- <img src="./pic/2023poster.png" width="1000"><BR> 
+ <img src="./pic/poster.png" width="1000"><BR> 
  <img src="./pic/timetable.png" width="1000"><BR>                       
 
 

@@ -16,7 +16,7 @@ permalink: /about/
 |2|스피커|박장원![사진](pic/pjw.jpg)|BHSN|특정 도메인에 맞는 언어모델은 어떻게 만들까?|-|     
 |3|스피커|고석현![사진](pic/noha.png)|토스|Shallow한 자연어 검색 만들기|-|     
 |4|스피커|고현웅![사진](pic/gohw.png)|튜닙|EleutherAI에서의 1년|-|       
-|5|스피커|이주홍![사진](pic/ljhong.png)|스캐터랩|인공지능과 친구가 될 수 있을까요?|(data/scatterlab.pdf)|   
+|5|스피커|이주홍![사진](pic/ljhong.png)|스캐터랩|인공지능과 친구가 될 수 있을까요?|[발표자료](data/scatterlab.pdf)|   
 |6|스피커|신정규![사진](pic/sinjk.jpg)|Lablup|Building large language models at scale|-|            
 
 

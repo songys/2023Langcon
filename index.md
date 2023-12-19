@@ -8,7 +8,7 @@ layout: home
                             
                            
  2023Langcon  초거대 AI 모델과 재미있는 이야기하기 : Bigger, Better, Stronger     
-(2023Langcon Talking Fun with Super-Giant AI Models: Bigger, Better, Stronger)     
+(2023Langcon Talking Fun with Large languahe Models: Bigger, Better, Stronger)     
            
            
 시간 : 2023년 2월 18일(토)        
